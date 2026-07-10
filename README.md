@@ -1,16 +1,11 @@
-## Hi there 👋
 
-<!--
-**5oidette/5oidette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  .<table>
+<br>
+    <tr>
+      <td>
+        <br>
+       　hello called me ren or Yuki this is unfinished 
+         <br>
+      </td>
+    </tr>
+    </table>
